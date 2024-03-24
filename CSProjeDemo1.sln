@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane_Otomasyon_Sistemi", "Kutuphane_Otomasyon_Sistemi\Kutuphane_Otomasyon_Sistemi.csproj", "{CF7293CF-5E00-4EFE-A010-8B8D3A4CDB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7293CF-5E00-4EFE-A010-8B8D3A4CDB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF7293CF-5E00-4EFE-A010-8B8D3A4CDB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF7293CF-5E00-4EFE-A010-8B8D3A4CDB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF7293CF-5E00-4EFE-A010-8B8D3A4CDB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145C378C-2266-4E64-A4ED-52A41D1A33A5}
+	EndGlobalSection
+EndGlobal
